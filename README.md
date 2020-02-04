@@ -1,2 +1,2 @@
-# python-web-scraper-asp-authentication
-Scraping ASP Web Pages, login script
+# Scraping ASP Web Pages, authentication script
+Getting access to a behind-login-page site's section
