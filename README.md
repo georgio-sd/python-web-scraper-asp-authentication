@@ -1,2 +1,2 @@
 # Scraping ASP Web Pages, authentication script
-Getting access to a behind-login-page site's sections
+Getting access to behind-login-page site's sections
